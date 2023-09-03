@@ -21,7 +21,7 @@ public class Console {
             System.out.println("1 - Calculadora");
             System.out.println("2 - Calculo IMC");
             System.out.println("Qual opcao deseja: ");
-            
+
             int opcao = sc.nextInt();
 
             switch (opcao) {
